@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/ThirdPerson/Blueprints/BP_EnemyAI.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GG/2RFSZXVWRD67RY8GO0SEUT.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/H3/TBPBU5Y71PH7Y3NSE8KECZ.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3G/EOJ06GO1LUHESM3BMLYUU9.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TA/BVZQKIZB9OA5TR5ELF8T5H.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZC/2LW9QUZVUWTX73QHISPOJZ.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/A2/PXJT7QHD8O3XGDM1BA368D.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/AI/WalkBlendSpace1D.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/AI/AP_EnemyAI.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/AI/PunchAnimationMontage1D.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/AI/Dance01.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/Montages/Smash.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/Montages/Boxing.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/AI/Dance02.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/Montages/Death.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/Montages/Elbow_Uppercur_Combo.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/Montages/Punching_Bag.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/AI/Roll.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/Animations/Montages/Run_Wuth_Sword.uasset",
+				"C:/Users/hubet/OneDrive/Documentos/Unreal Projects/ThirdPersonInitial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+			]
+		}
+	]
+}
